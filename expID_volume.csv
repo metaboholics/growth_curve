@@ -1,0 +1,13 @@
+sample_id,medium,replicate,t0,t1,t2
+1,medium1,r1,,3000,3050
+2,medium1,r2,,3000,3050
+3,medium1,r3,,3000,3050
+4,medium2,r1,,3100,3150
+5,medium2,r2,,3100,3150
+6,medium2,r3,,3100,3150
+7,medium3,r1,,2900,2950
+8,medium3,r2,,2900,2950
+9,medium3,r3,,2900,2950
+10,medium4,r1,,3200,3250
+11,medium4,r2,,3200,3250
+12,medium4,r3,,3200,3250
